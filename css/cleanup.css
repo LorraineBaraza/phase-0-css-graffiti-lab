@@ -1,1 +1,40 @@
-/* write your override styles here */
+#wall {
+    display: none;
+    background-color: blue;
+}
+#wall .tag-1{
+    display: none;
+    margin-top: 25px;
+    padding: 39px;
+}
+#wall .tag-2{
+    display: none;
+    margin-top: 25px;
+    padding: 39px;
+}
+#wall .tag-3{
+    display: none;
+    margin-top: 25px;
+    padding: 39px;
+}
+#wall .tag-4{
+    display: none;
+    margin-top: 25px;
+    padding: 39px;
+}
+#wall .tag-5{
+    display: none;
+    margin-top: 25px;
+    padding: 39px;
+}
+#wall .tag-6{
+    display: none;
+    margin-top: 25px;
+    padding: 39px;
+    background-color: blue;
+}
+#wall .tag-7{
+    display: none;
+    margin-top: 25px;
+    padding: 39px;
+}
